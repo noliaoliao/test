@@ -2,3 +2,4 @@
 #just a test python program!
 
 print 'hello,github!'
+print 'hello,github!'
